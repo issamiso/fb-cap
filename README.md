@@ -12,6 +12,9 @@ script for brute force facebook using api
 
 ## how to install 
 ```bash
+apt update -y && apt upgrade -y
+```
+```bash
 apt install git -y
 ```
 ```bash
