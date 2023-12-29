@@ -6,8 +6,8 @@ script for brute force facebook using api
 
 
 ### options
-- use proxy file
-- use threads
+- useing proxy file
+- useing threads
 - generate password list
 
 ## how to install 
