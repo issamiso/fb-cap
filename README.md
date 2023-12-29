@@ -11,6 +11,12 @@ script for brute force facebook using api
 - generate password list
 
 ## how to install 
-```
+```bash
 apt install git -y
+```
+```bash
+apt install python3 -y
+```
+```bash
+git
 ```
